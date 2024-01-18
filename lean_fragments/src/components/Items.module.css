@@ -1,0 +1,10 @@
+.kg-bgColor {
+  background-color: bisque !important;
+  /* color: rgb(11, 74, 233); */
+  /* font-size: 1.5em; */
+  border-bottom: 2px solid #555555c8 !important;
+}
+.kg_span {
+  color: orangered;
+  font-size: 1.5vw;
+}
