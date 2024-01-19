@@ -1,0 +1,17 @@
+.buttons_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  width: 3.5vw;
+  height: 3.5vw;
+  margin: 3%;
+  border-radius: 50%;
+  padding: auto;
+  box-sizing: border-box;
+  font-size: 1.2vw;
+  border: 1px solid rgba(0, 0, 0, 0.618);
+}

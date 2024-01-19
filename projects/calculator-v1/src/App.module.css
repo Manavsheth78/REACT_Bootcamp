@@ -1,0 +1,7 @@
+.wrapper_calculator {
+  width: 17vw;
+  height: 28vw;
+  border: 2px solid black;
+  border-radius: 4px;
+  margin: 0 auto;
+}
