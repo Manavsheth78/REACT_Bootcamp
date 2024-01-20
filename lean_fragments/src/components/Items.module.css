@@ -8,3 +8,7 @@
   color: orangered;
   font-size: 1.5vw;
 }
+
+.button {
+  float: right;
+}

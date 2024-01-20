@@ -13,11 +13,18 @@ export default Items; */
 export default Items;
  */
 
-const Items = ({ foodItem }) => {
+const Items = ({ foodItem, handleBuyButton }) => {
   //method 3 destructuring the props in the parameter itself
+
   return (
     <li className={` ${styles["kg-bgColor"]} list-group-item`}>
       <span className={styles.kg_span}>{foodItem} </span>
+      <button
+        onClick={handleBuyButton}
+        className={`${styles.button} btn btn-info`}
+      >
+        Buy
+      </button>
     </li>
   );
 };
