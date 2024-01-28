@@ -1,0 +1,20 @@
+.todo-container {
+  margin: 0px 10%;
+  min-width: 300px;
+}
+
+input {
+  width: 100%;
+  min-width: 20%;
+}
+
+.kg-row {
+  margin: 10px 5px;
+}
+
+.kg-button {
+  min-width: 80px;
+  width: 100px;
+  padding: 8px 0px;
+  margin: 0px 25%;
+}
